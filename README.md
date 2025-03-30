@@ -1,5 +1,5 @@
 # MicroDAO-Simplified-DAO-Governance-Platform
-# MicroDAO: Simplified DAO Governance Platform
+<p>BITS Pilani Apogee '25</p>
 
 <div align="center">
   <h3>Decentralized governance for everyone</h3>
