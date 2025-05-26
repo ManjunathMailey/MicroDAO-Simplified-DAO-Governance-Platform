@@ -70,7 +70,7 @@ function executeProposal(uint256 _proposalId) external
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-github-username/MicroDAO.git
+git clone https://github.com/ManjunathMailey/MicroDAO.git
 cd MicroDAO
 ```
 
