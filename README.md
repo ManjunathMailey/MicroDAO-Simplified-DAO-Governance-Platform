@@ -31,10 +31,10 @@ Our architecture follows a clean separation between frontend and blockchain comp
 
 ## 💻 Technology Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap 
 - **Smart Contracts**: Solidity
 - **Blockchain**: Ethereum (compatible with EVM chains)
-- **Web3 Integration**: Ethers.js
+
 
 ## 🏗️ Smart Contract Structure
 
